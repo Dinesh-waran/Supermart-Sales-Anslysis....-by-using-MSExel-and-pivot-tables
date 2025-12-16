@@ -1,0 +1,2 @@
+# Supermart-Sales-Anslysis....-by-using-MSExel-and-pivot-tables
+📊 Excel Dashboard | Supermart Sales Analysis 🛒  Excited to share my latest Excel Dashboard built using Pivot Tables . 📈 Total Sales &amp; Profit Overview 🛍️ Category-wise and Product-wise Performance 🌍 Region &amp; Store-level Sales Analysis 📅 Monthly &amp; Yearly Sales Trends 📊 Interactive Pivot Tables &amp; Pivot Charts
